@@ -27,23 +27,23 @@ O projeto tem como o objetivo prever a evasão escolar no ensino superior na ins
 
 # Possíveis variáveis
 
-Sexo
-Nota média das disciplinas concluídas
-Nota média das disciplinas cursando
-Idade
-Renda da família
-Estado civil
-Quantos filhos
-Endereço do aluno
-Endereço da faculdade
-Raça
-Particular / Federal
-Tipo de ingresso
-Porcetagem de bolsa 
-Turno do curso (Matutino, Vespertino, Norturno ou Federal) 
-Curso
-Reprovações
-Ano de inicio
-Quantidade de disciplina
-Quantidade / Porcetagem de disciplina concluídas
-Quantidade / Porcetagem de disciplina faltantes
+1. Sexo
+2. Nota média das disciplinas concluídas
+3. Nota média das disciplinas cursando
+4. Idade
+5. Renda da família
+6. Estado civil
+7. Quantos filhos
+8. Endereço do aluno
+9. Endereço da faculdade
+10. Raça
+11. Particular / Federal
+12. Tipo de ingresso
+13. Porcetagem de bolsa 
+14. Turno do curso (Matutino, Vespertino, Norturno ou Federal) 
+15. Curso
+16. Reprovações
+17. Ano de inicio
+18. Quantidade de disciplina
+19. Quantidade / Porcetagem de disciplina concluídas
+20. Quantidade / Porcetagem de disciplina faltantes
