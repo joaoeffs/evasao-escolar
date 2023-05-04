@@ -18,6 +18,10 @@ O projeto tem como o objetivo prever a evasão escolar no ensino superior na ins
 
 ![Captura de tela 2023-04-05 114522](https://user-images.githubusercontent.com/70415298/230118206-e9cd9ab7-1b50-4f01-9b11-f75c021fd4dc.png)
 
+# Diagrama de Arquitetura
+
+![image](https://user-images.githubusercontent.com/70415298/236086858-c49fac85-7ba7-4e58-8fc0-903daefcce0d.png)
+
 # Playbook
 
 1. Relevância do Projeto e Complexidade do Projeto
