@@ -25,6 +25,12 @@ O projeto tem como o objetivo prever a evasão escolar no ensino superior na ins
 3. Código Fonte
 4. Apresentação
 
+# Tecnologias
+
+Python e suas bibliotecas como, numpy, pandas e etc., para a preparação e organização dos dados. E bibliotecas do Python para o desenvolvimento do algoritmo do machine learning.
+
+Obs.: A definição do(s) algortimo(s) de machine learning será definida futuramente.
+
 # Possíveis variáveis
 
 1. Sexo
