@@ -38,25 +38,18 @@ Obs.: A definição do(s) algortimo(s) de machine learning será definida futura
 # Possíveis variáveis
 
 1. Sexo
-2. Nota média das disciplinas concluídas
-3. Nota média das disciplinas cursando
+
 4. Idade
 5. Renda da família
 6. Estado civil
 7. Quantos filhos
-8. Endereço do aluno
-9. Endereço da faculdade
 10. Raça
-11. Particular / Federal
 12. Tipo de ingresso
 13. Porcetagem de bolsa 
 14. Turno do curso (Matutino, Vespertino, Norturno ou Federal) 
 15. Curso
 16. Reprovações
-17. Ano de inicio
 18. Quantidade de disciplina
-19. Quantidade / Porcetagem de disciplina concluídas
-20. Quantidade / Porcetagem de disciplina faltantes
 
 # Dados Sinteticos e o Modelo Preditivo
 
