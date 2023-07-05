@@ -38,18 +38,17 @@ Obs.: A definição do(s) algortimo(s) de machine learning será definida futura
 # Possíveis variáveis
 
 1. Sexo
-
-4. Idade
-5. Renda da família
-6. Estado civil
-7. Quantos filhos
-10. Raça
-12. Tipo de ingresso
-13. Porcetagem de bolsa 
-14. Turno do curso (Matutino, Vespertino, Norturno ou Federal) 
-15. Curso
-16. Reprovações
-18. Quantidade de disciplina
+2. Idade
+3. Renda da família
+4. Estado civil
+5. Quantos filhos
+6. Raça
+7. Tipo de ingresso
+8. Turno do curso (Matutino, Vespertino ou Norturno) 
+9. Curso
+10. Reprovações
+11. Quantidade de disciplina
+12. Trancou (Classe)
 
 # Dados Sinteticos e o Modelo Preditivo
 
