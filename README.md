@@ -58,4 +58,6 @@ Obs.: A definição do(s) algortimo(s) de machine learning será definida futura
 19. Quantidade / Porcetagem de disciplina concluídas
 20. Quantidade / Porcetagem de disciplina faltantes
 
-Colab com os dados sintéticos --> https://colab.research.google.com/drive/1qV35Bt0JYKM0DkBDieykwXQ2YiKscqOg#scrollTo=lUTHns9ss-Cv 
+# Dados Sinteticos e o Modelo Preditivo
+
+Link do Collab -> https://colab.research.google.com/drive/1KT-ZU86qAy1YYhoaVE99XNR_jYAEoeMo?usp=sharing 
